@@ -1,0 +1,5 @@
+I would write a class that would test 'LoadSurface()' by loading various surfaces, 
+'DrawSurface' by drawing various surfaces, 'device' by using it invarious ways, 
+the 'backbuffer' by drawing to it and displaying the result, the keyboard inputs by logging the keys pressed,
+the controller by logging the buttons pressed and the axis of the joysticks, 
+the mouse by logging the position and the buttons pressed.
